@@ -1,10 +1,10 @@
 <!-- Vyomanant Academy | GitHub Profile README -->
 
-# 👋 Welcome to **Vyomanant Academy**
+# Welcome to **Vyomanant Academy**
 
-### 🚀 Empowering Next-Gen Technology Professionals
+### Empowering Next-Gen Technology Professionals
 
-#### **Learn. Build. Deploy. Transform.**
+#### **Learn. Transform. Lead.**
 
 ---
 
@@ -106,10 +106,10 @@ The company supports organizations through technology solutions, practical consu
 
 ## 🌍 Connect With Us
 
-🌐 **Website:** [www.vyomanant.com](https://www.vyomanant.com)  
-📧 **Email:** [info@vyomanant.com](mailto:info@vyomanant.com)  
-🔗 **LinkedIn:** [linkedin.com/company/vyomanant](https://www.linkedin.com/company/vyomanant)  
-📺 **YouTube:** [youtube.com/@vyomanant](https://www.youtube.com/@vyomanant)
+🌐 **Website:** [www.academy.vyomanant.com](https://www.academy.vyomanant.com)  
+📧 **Email:** [academy@vyomanant.com](mailto:academy@vyomanant.com)  
+🔗 **LinkedIn:** [linkedin.com/company/vyomanant-academy](https://www.linkedin.com/company/vyomanant-academy)  
+📺 **YouTube:** [youtube.com/@vyomanant](https://www.youtube.com/@vyomanant-academy-official)
 
 📍 *Hyderabad, India — Serving learners and organizations globally*
 
