@@ -109,7 +109,7 @@ The company supports organizations through technology solutions, practical consu
 🌐 **Website:** [www.academy.vyomanant.com](https://www.academy.vyomanant.com)  
 📧 **Email:** [academy@vyomanant.com](mailto:academy@vyomanant.com)  
 🔗 **LinkedIn:** [linkedin.com/company/vyomanant-academy](https://www.linkedin.com/company/vyomanant-academy)  
-📺 **YouTube:** [youtube.com/@vyomanant](https://www.youtube.com/@vyomanant-academy-official)
+📺 **YouTube:** [youtube.com/@vyomanant-academy](https://www.youtube.com/@vyomanant-academy-official)
 
 📍 *Hyderabad, India — Serving learners and organizations globally*
 
