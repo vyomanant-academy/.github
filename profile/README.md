@@ -2,17 +2,19 @@
 
 # 👋 Welcome to **Vyomanant Academy**
 
-### 🚀 Empowering Next-Gen Cloud, DevOps & AI Engineers | **Learn. Build. Deploy. Transform.**
+### 🚀 Empowering Next-Gen AI, DevOps, Cloud, and Emerging Technology Professionals
+
+#### **Learn. Build. Deploy. Transform.**
 
 ---
 
 ### 🌩️ About Us
 
-**Vyomanant Academy** is a modern **Cloud, DevOps, and AI training academy** focused on empowering students, professionals, and organizations with practical, industry-ready technology skills.
+**Vyomanant Academy** is the learning and training division of **Vyomanant Technologies Private Limited**, focused on **Cloud, DevOps, AI, and emerging technology education**.
 
-We combine **hands-on learning**, **real-world labs**, **production-level projects**, and **career-focused mentoring** to help learners become confident cloud-native engineers.
+We help students, working professionals, and organizations build practical, industry-ready technology skills through **hands-on training**, **real-world labs**, **production-level projects**, and **career-focused mentoring**.
 
-Vyomanant Academy is the training division of **Vyomanant Technologies Pvt. Ltd.**, dedicated to building skilled professionals for the future of IT, Cloud, DevOps, and AI-driven infrastructure.
+Our mission is to make learners confident in using modern tools, workflows, and cloud-native practices used by real technology teams.
 
 ---
 
@@ -22,15 +24,15 @@ Vyomanant Academy is the training division of **Vyomanant Technologies Pvt. Ltd.
 
 > Building skilled Cloud, DevOps, and AI professionals through practical learning.
 
-- Hands-on Training in **AWS**, **Azure**, **Linux**, **Git**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **Ansible**, **CI/CD**, and **GitOps**
-- **Production-Based Labs** designed from real-world infrastructure and DevOps scenarios
+- **Hands-on Training** in AWS, Azure, Linux, Git, Docker, Kubernetes, Terraform, Jenkins, Ansible, CI/CD, and GitOps
+- **Production-Level Labs** designed from real-world infrastructure and DevOps scenarios
 - **AI Assisted DevOps & Cloud Training** using modern AI tools for faster learning and productivity
-- **Project-Based Learning** with end-to-end deployment and automation use cases
+- **Project-Based Learning** with end-to-end deployment, automation, and monitoring use cases
 - **Career Preparation Support** including Resume, LinkedIn, GitHub Portfolio, and Interview Guidance
 - **Corporate Training Programs** for Cloud, DevOps, Automation, and AI adoption
-- **Workshops & Bootcamps** for students, professionals, and organizations
+- **Workshops & Bootcamps** for students, professionals, colleges, and organizations
 
-### 🧠 **Vyomanant Technology Training & Consulting**
+### 🧠 **Training, Consulting & Enablement**
 
 > Helping teams adopt cloud-native practices, automation, and modern DevOps workflows.
 
@@ -55,8 +57,8 @@ Vyomanant Academy is the training division of **Vyomanant Technologies Pvt. Ltd.
 ## 🌐 Our Ecosystem
 
 | Brand | Focus Area | Description |
-|--------|-------------|-------------|
-| **Vyomanant Technologies Pvt. Ltd.** | Core Company | Technology, Training, and Consulting Solutions |
+|------|------------|-------------|
+| **Vyomanant Technologies Private Limited** | Core Company | Technology, Training, Consulting, and Project Solutions |
 | **Vyomanant Academy** | Learning Division | Cloud, DevOps, AI, and Career-Focused Training Programs |
 | **Vyomanant Corporate Training** | Enterprise Learning | Upskilling teams in Cloud, DevOps, Automation, and AI Tools |
 
@@ -66,7 +68,7 @@ Vyomanant Academy is the training division of **Vyomanant Technologies Pvt. Ltd.
 
 > To empower learners and organizations with practical skills to **Learn, Build, Deploy, and Transform** in the cloud-native world.
 
-We believe in transforming learners into confident engineers by helping them master real tools, real projects, and real-world workflows used by modern technology teams.
+We believe in transforming learners into confident technology professionals by helping them master real tools, real projects, and real-world workflows.
 
 Our goal is to create a learning culture that encourages **innovation, automation, collaboration, and continuous growth**.
 
@@ -74,9 +76,34 @@ Our goal is to create a learning culture that encourages **innovation, automatio
 
 ## 🎯 Our Vision
 
-> To become a trusted learning partner for Cloud, DevOps, and AI engineering skills.
+> To become a trusted learning partner for Cloud, DevOps, AI, and emerging technology skills.
 
 Vyomanant Academy aims to bridge the gap between traditional learning and industry expectations through hands-on training, project-based education, and career-oriented guidance.
+
+---
+
+## 🤝 Who We Serve
+
+- Students preparing for technology careers
+- Working professionals upgrading their skills
+- Freshers entering Cloud, DevOps, and AI roles
+- Colleges and universities looking for practical training programs
+- Companies planning Cloud, DevOps, Automation, and AI upskilling programs
+
+---
+
+## 🚀 Learning Approach
+
+At Vyomanant Academy, we focus on practical learning over theory-heavy training.
+
+Our programs are designed around:
+
+- Real-world labs
+- Production-style projects
+- Tool-based learning
+- Scenario-based troubleshooting
+- Career-oriented mentoring
+- AI-assisted productivity for modern engineers
 
 ---
 
@@ -96,7 +123,7 @@ Vyomanant Academy aims to bridge the gap between traditional learning and indust
 We welcome collaborations for:
 
 - Corporate training and technical workshops
-- Cloud, DevOps, and AI learning programs
+- Cloud, DevOps, AI, and emerging technology learning programs
 - University partnerships and student enablement programs
 - Real-world lab development and open-source learning initiatives
 - Career-focused training for students and working professionals
@@ -110,4 +137,4 @@ We welcome collaborations for:
 ---
 
 **© 2026 Vyomanant Academy**  
-#VyomanantAcademy #Vyomanant #CloudComputing #DevOps #AI #Kubernetes #Terraform #AWS #Azure #LearnBuildDeploy #InfrastructureAutomation #AIOps #MLOps
+#VyomanantAcademy #CloudComputing #DevOps #AI #Kubernetes #Terraform #AWS #Azure #GitOps
